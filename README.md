@@ -3,6 +3,8 @@ Just a simple WS server with Go
 
 ## If you want to test
 
+- Run the server with `go run main.go`
+
 - Open two tabs in your browser
 
 - On console, run this commands separately:
