@@ -1,0 +1,6 @@
+# github.com/rs/cors v1.10.1
+## explicit; go 1.13
+github.com/rs/cors
+# golang.org/x/net v0.17.0
+## explicit; go 1.17
+golang.org/x/net/websocket
